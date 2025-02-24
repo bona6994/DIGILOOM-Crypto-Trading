@@ -60,6 +60,9 @@ DIGILOOM is a cryptocurrency trading simulation platform designed for educationa
 - **Primary Colors:**
   - **DIGI:** #142954 (Dark Blue)
   - **LOOM:** #F34926 (Orange)
+## structure
+![image](https://github.com/user-attachments/assets/f6c60f49-4cb6-4e21-832b-cf700c14a9a2)
+
 
 ## How to Run Locally on Windows 10
 
